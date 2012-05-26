@@ -48,3 +48,26 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::on_stackedWidget_currentChanged(int arg1)
+{
+    if (arg1 <= 0)
+        ui->prevButton->setEnabled(false);
+    else
+        ui->prevButton->setEnabled(true);
+
+    if (arg1 < ui->stackedWidget->count() - 1)
+        ui->nextButton->setEnabled(true);
+    else
+        ui->nextButton->setEnabled(false);
+}
+
+void MainWindow::on_nextButton_clicked()
+{
+    ui->stackedWidget->setCurrentIndex(ui->stackedWidget->currentIndex() + 1);
+}
+
+void MainWindow::on_prevButton_clicked()
+{
+    ui->stackedWidget->setCurrentIndex(ui->stackedWidget->currentIndex() - 1);
+}

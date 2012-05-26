@@ -51,6 +51,13 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+private slots:
+    void on_stackedWidget_currentChanged(int arg1);
+
+    void on_nextButton_clicked();
+
+    void on_prevButton_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
