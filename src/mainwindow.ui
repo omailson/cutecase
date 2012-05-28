@@ -2462,6 +2462,477 @@ p, li { white-space: pre-wrap; }
            </item>
           </layout>
          </widget>
+         <widget class="QWidget" name="page_20">
+          <layout class="QVBoxLayout" name="verticalLayout_63">
+           <item>
+            <widget class="QLabel" name="label_57">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="text">
+              <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;View Widgets&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QWidget" name="widget_58" native="true">
+             <layout class="QGridLayout" name="gridLayout_4">
+              <item row="0" column="1">
+               <widget class="QWidget" name="widget_60" native="true">
+                <layout class="QVBoxLayout" name="verticalLayout_65">
+                 <item>
+                  <widget class="QLabel" name="label_60">
+                   <property name="sizePolicy">
+                    <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                     <horstretch>0</horstretch>
+                     <verstretch>0</verstretch>
+                    </sizepolicy>
+                   </property>
+                   <property name="text">
+                    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;QTableView:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QTableWidget" name="tableWidget">
+                   <row>
+                    <property name="text">
+                     <string>L1</string>
+                    </property>
+                   </row>
+                   <row>
+                    <property name="text">
+                     <string>L2</string>
+                    </property>
+                   </row>
+                   <row>
+                    <property name="text">
+                     <string>L3</string>
+                    </property>
+                   </row>
+                   <row>
+                    <property name="text">
+                     <string>L4</string>
+                    </property>
+                   </row>
+                   <row>
+                    <property name="text">
+                     <string>L5</string>
+                    </property>
+                   </row>
+                   <column>
+                    <property name="text">
+                     <string>C1</string>
+                    </property>
+                   </column>
+                   <column>
+                    <property name="text">
+                     <string>C2</string>
+                    </property>
+                   </column>
+                   <column>
+                    <property name="text">
+                     <string>C3</string>
+                    </property>
+                   </column>
+                   <column>
+                    <property name="text">
+                     <string>C4</string>
+                    </property>
+                   </column>
+                   <column>
+                    <property name="text">
+                     <string>C5</string>
+                    </property>
+                   </column>
+                   <item row="0" column="0">
+                    <property name="text">
+                     <string>L1C1</string>
+                    </property>
+                   </item>
+                   <item row="0" column="1">
+                    <property name="text">
+                     <string>L1C2</string>
+                    </property>
+                   </item>
+                   <item row="0" column="2">
+                    <property name="text">
+                     <string>L1C3</string>
+                    </property>
+                   </item>
+                   <item row="0" column="3">
+                    <property name="text">
+                     <string>L1C4</string>
+                    </property>
+                   </item>
+                   <item row="0" column="4">
+                    <property name="text">
+                     <string>L1C5</string>
+                    </property>
+                   </item>
+                   <item row="1" column="0">
+                    <property name="text">
+                     <string>L2C1</string>
+                    </property>
+                   </item>
+                   <item row="1" column="1">
+                    <property name="text">
+                     <string>L2C2</string>
+                    </property>
+                   </item>
+                   <item row="1" column="2">
+                    <property name="text">
+                     <string>L2C3</string>
+                    </property>
+                   </item>
+                   <item row="1" column="3">
+                    <property name="text">
+                     <string>L2C4</string>
+                    </property>
+                   </item>
+                   <item row="1" column="4">
+                    <property name="text">
+                     <string>L2C5</string>
+                    </property>
+                   </item>
+                   <item row="2" column="0">
+                    <property name="text">
+                     <string>L3C1</string>
+                    </property>
+                   </item>
+                   <item row="2" column="1">
+                    <property name="text">
+                     <string>L3C2</string>
+                    </property>
+                   </item>
+                   <item row="2" column="2">
+                    <property name="text">
+                     <string>L3C3</string>
+                    </property>
+                   </item>
+                   <item row="2" column="3">
+                    <property name="text">
+                     <string>L3C4</string>
+                    </property>
+                   </item>
+                   <item row="2" column="4">
+                    <property name="text">
+                     <string>L3C5</string>
+                    </property>
+                   </item>
+                   <item row="3" column="0">
+                    <property name="text">
+                     <string>L4C1</string>
+                    </property>
+                   </item>
+                   <item row="3" column="1">
+                    <property name="text">
+                     <string>L4C2</string>
+                    </property>
+                   </item>
+                   <item row="3" column="2">
+                    <property name="text">
+                     <string>L4C3</string>
+                    </property>
+                   </item>
+                   <item row="3" column="3">
+                    <property name="text">
+                     <string>L4C4</string>
+                    </property>
+                   </item>
+                   <item row="3" column="4">
+                    <property name="text">
+                     <string>L4C5</string>
+                    </property>
+                   </item>
+                   <item row="4" column="0">
+                    <property name="text">
+                     <string>L5C1</string>
+                    </property>
+                   </item>
+                   <item row="4" column="1">
+                    <property name="text">
+                     <string>L5C2</string>
+                    </property>
+                   </item>
+                   <item row="4" column="2">
+                    <property name="text">
+                     <string>L5C3</string>
+                    </property>
+                   </item>
+                   <item row="4" column="3">
+                    <property name="text">
+                     <string>L5C4</string>
+                    </property>
+                   </item>
+                   <item row="4" column="4">
+                    <property name="text">
+                     <string>L5C5</string>
+                    </property>
+                   </item>
+                  </widget>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QWidget" name="widget_61" native="true">
+                <layout class="QVBoxLayout" name="verticalLayout_66">
+                 <item>
+                  <widget class="QLabel" name="label_59">
+                   <property name="sizePolicy">
+                    <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                     <horstretch>0</horstretch>
+                     <verstretch>0</verstretch>
+                    </sizepolicy>
+                   </property>
+                   <property name="text">
+                    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;QListView:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QListWidget" name="listWidget">
+                   <item>
+                    <property name="text">
+                     <string>Item 0</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 1</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 2</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 3</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 4</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 5</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 6</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 7</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 8</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 9</string>
+                    </property>
+                   </item>
+                  </widget>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+              <item row="2" column="1">
+               <widget class="QWidget" name="widget_62" native="true">
+                <layout class="QVBoxLayout" name="verticalLayout_64">
+                 <item>
+                  <widget class="QLabel" name="label_61">
+                   <property name="sizePolicy">
+                    <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                     <horstretch>0</horstretch>
+                     <verstretch>0</verstretch>
+                    </sizepolicy>
+                   </property>
+                   <property name="text">
+                    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;QColumnView:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QColumnView" name="columnView"/>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+              <item row="0" column="0" rowspan="2">
+               <widget class="QWidget" name="widget_59" native="true">
+                <layout class="QVBoxLayout" name="verticalLayout_67">
+                 <item>
+                  <widget class="QLabel" name="label_58">
+                   <property name="sizePolicy">
+                    <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                     <horstretch>0</horstretch>
+                     <verstretch>0</verstretch>
+                    </sizepolicy>
+                   </property>
+                   <property name="text">
+                    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;QTreeView:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QTreeWidget" name="treeWidget">
+                   <property name="sizePolicy">
+                    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                     <horstretch>0</horstretch>
+                     <verstretch>0</verstretch>
+                    </sizepolicy>
+                   </property>
+                   <column>
+                    <property name="text">
+                     <string>Colunm 1</string>
+                    </property>
+                   </column>
+                   <column>
+                    <property name="text">
+                     <string>Column 2</string>
+                    </property>
+                   </column>
+                   <item>
+                    <property name="text">
+                     <string>Item 0</string>
+                    </property>
+                    <property name="text">
+                     <string>C2I0</string>
+                    </property>
+                    <item>
+                     <property name="text">
+                      <string>Subitem 0</string>
+                     </property>
+                     <property name="text">
+                      <string>C2I0S0</string>
+                     </property>
+                     <item>
+                      <property name="text">
+                       <string>0</string>
+                      </property>
+                      <property name="text">
+                       <string>C2I0S00</string>
+                      </property>
+                     </item>
+                    </item>
+                    <item>
+                     <property name="text">
+                      <string>Subitem 1</string>
+                     </property>
+                     <property name="text">
+                      <string>C2I0S1</string>
+                     </property>
+                     <item>
+                      <property name="text">
+                       <string>1</string>
+                      </property>
+                      <property name="text">
+                       <string>C2I0S11</string>
+                      </property>
+                     </item>
+                    </item>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 1</string>
+                    </property>
+                    <property name="text">
+                     <string>C2I1</string>
+                    </property>
+                    <item>
+                     <property name="text">
+                      <string>Subitem 0</string>
+                     </property>
+                     <property name="text">
+                      <string>C2I1S0</string>
+                     </property>
+                    </item>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 2</string>
+                    </property>
+                    <property name="text">
+                     <string>C2I2</string>
+                    </property>
+                    <item>
+                     <property name="text">
+                      <string>Subitem 0</string>
+                     </property>
+                     <property name="text">
+                      <string>C2I2S0</string>
+                     </property>
+                    </item>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 3</string>
+                    </property>
+                    <property name="text">
+                     <string>C2I3</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 4</string>
+                    </property>
+                    <property name="text">
+                     <string>C2I4</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>Item 5</string>
+                    </property>
+                   </item>
+                  </widget>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </widget>
         </widget>
        </item>
       </layout>
